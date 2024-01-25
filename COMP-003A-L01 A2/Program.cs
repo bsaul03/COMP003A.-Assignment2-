@@ -56,6 +56,7 @@ namespace COMP_003A_L01_A2
             string exampleVAriable;
             string exampleVARiable;
 
+
             Console.WriteLine("**************************************************");
             /*
              * types of variables and values matter in C#. they are not interchangeable.
